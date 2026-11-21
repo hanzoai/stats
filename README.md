@@ -1,5 +1,7 @@
 # @hanzo/stats
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/stats&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/hanzoai/stats&ref=main&action=edit)
+
 SQL-powered stats dashboard library with client-side SQLite, chart configurations, and data providers.
 
 ## Features
